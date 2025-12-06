@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .HOT one-word domains still available to buy.
 
-This dataset contains 4,968 .HOT one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,967 .HOT one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.HOT one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=hot-oneword-domains&utm_content=description.top) (4,968) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -21,8 +21,8 @@ If you want to search & filters the complete database of [.HOT one word domains]
 
 | Domain         | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | -------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaa.hot        | available | 70       | 38%    | 3      |           |         |         |
-| aaron.hot      | available | 88       | 32%    | 5      |           |         |         |
+| aaa.hot        | premium   | 70       | 38%    | 3      |           |         |         |
+| aaron.hot      | premium   | 88       | 32%    | 5      |           |         |         |
 | abactinal.hot  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.hot      | premium   | 43       | 2%     | 5      |           |         |         |
 | abandoned.hot  | premium   | 58       | 7%     | 9      |           |         |         |
@@ -32,7 +32,7 @@ If you want to search & filters the complete database of [.HOT one word domains]
 | abatic.hot     | premium   | 54       | 2%     | 6      |           |         |         |
 | abaxial.hot    | premium   | 54       | 2%     | 7      |           |         |         |
 | abbatial.hot   | premium   | 50       | 1%     | 8      |           |         |         |
-| abc.hot        | available | 102      | 41%    | 3      |           |         |         |
+| abc.hot        | premium   | 102      | 41%    | 3      |           |         |         |
 | abdicable.hot  | premium   | 50       | 1%     | 9      |           |         |         |
 | abdominal.hot  | premium   | 82       | 5%     | 9      |           |         |         |
 | abdominous.hot | available | 56       | 1%     | 10     |           |         |         |
