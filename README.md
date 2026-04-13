@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .hot one-word domains from Unique 
 
 **Public extract:** 9,923 rows · **Live catalog:** 9,923 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/hot`  
 **Best for:** founders, investors, studios
 
@@ -82,7 +82,7 @@ print(df.head())
 | ace.hot        | premium   | $3,125    | $3,125        | 88             | 57     | 3      | name.com       |
 | nimble.hot     | available | $31.99    | $79.99        | 94             | 33     | 6      | name.com       |
 | live.hot       | premium   | $1,250    | $1,250        | 108            | 56     | 4      | name.com       |
-| ethereal.hot   | available | $31.99    | $79.99        | 88             | 32     | 8      | name.com       |
+| ethereal.hot   | available | $31.99    | $79.99        | 88             | 31     | 8      | name.com       |
 | data.hot       | premium   | $1,300    | $1,300        | 70             | 56     | 4      | namecheap      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HOT One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HOT One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
