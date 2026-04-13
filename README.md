@@ -75,11 +75,11 @@ print(df.head())
 | power.hot      | premium   | $650      | $650          | 98             | 62     | 5      | namecheap      |
 | unify.hot      | available | $31.99    | $79.99        | 72             | 38     | 5      | name.com       |
 | launch.hot     | resell    | —         | —             | 109            | 39     | 6      | Dynadot, LLC   |
-| free.hot       | premium   | $1,250    | $1,250        | 88             | 59     | 4      | name.com       |
-| cozy.hot       | available | $31.99    | $79.99        | 110            | 37     | 4      | name.com       |
 | cloud.hot      | premium   | $650      | $650          | 70             | 59     | 5      | namecheap      |
-| goon.hot       | available | $31.99    | $79.99        | 80             | 35     | 5      | name.com       |
+| cozy.hot       | available | $31.99    | $79.99        | 110            | 37     | 4      | name.com       |
 | ace.hot        | premium   | $3,125    | $3,125        | 88             | 57     | 3      | name.com       |
+| goon.hot       | available | $31.99    | $79.99        | 80             | 35     | 5      | name.com       |
+| free.hot       | premium   | $1,250    | $1,250        | 88             | 57     | 4      | name.com       |
 | nimble.hot     | available | $31.99    | $79.99        | 94             | 33     | 6      | name.com       |
 | live.hot       | premium   | $1,250    | $1,250        | 108            | 56     | 4      | name.com       |
 | ethereal.hot   | available | $31.99    | $79.99        | 88             | 31     | 8      | name.com       |
