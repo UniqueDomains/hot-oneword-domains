@@ -1,22 +1,22 @@
-# Available .HOT One-Word Domains (9,923)
+# Available .HOT One-Word Domains (12,363)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C923%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C923%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C363%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .hot one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .hot one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **12,363 domains** on the canonical page below.
 
-**Public extract:** 9,923 rows · **Live catalog:** 9,923 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,363 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/hot`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .HOT one-word domain c
 
 ### Files
 
-- `hot.csv` — public CSV extract (9,923 rows)
-- `hot.json` — public JSON extract (9,923 rows)
+- `hot.csv` — public CSV extract (1,000 rows)
+- `hot.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar      |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------- |
-| converse.hot   | available | $31.99    | $79.99        | 64             | 73     | 8      | name.com       |
-| cannabis.hot   | resell    | —         | —             | 67             | 50     | 8      | NameCheap, Inc |
-| easy.hot       | premium   | $1,250    | $1,250        | 128            | 68     | 4      | name.com       |
-| seventeen.hot  | available | $31.99    | $79.99        | 84             | 62     | 9      | name.com       |
-| realestate.hot | resell    | —         | —             | —              | 40     | 11     | Dynadot, LLC   |
-| nationwide.hot | premium   | $125      | $125          | 76             | 66     | 10     | name.com       |
-| agile.hot      | available | $31.99    | $79.99        | 92             | 41     | 5      | name.com       |
-| beauty.hot     | resell    | —         | —             | 136            | 39     | 6      | Dynadot, LLC   |
-| power.hot      | premium   | $650      | $650          | 98             | 62     | 5      | namecheap      |
-| unify.hot      | available | $31.99    | $79.99        | 72             | 38     | 5      | name.com       |
-| launch.hot     | resell    | —         | —             | 109            | 39     | 6      | Dynadot, LLC   |
-| cloud.hot      | premium   | $650      | $650          | 70             | 59     | 5      | namecheap      |
-| cozy.hot       | available | $31.99    | $79.99        | 110            | 37     | 4      | name.com       |
-| ace.hot        | premium   | $3,125    | $3,125        | 88             | 57     | 3      | name.com       |
-| goon.hot       | available | $31.99    | $79.99        | 80             | 35     | 5      | name.com       |
-| free.hot       | premium   | $1,250    | $1,250        | 88             | 57     | 4      | name.com       |
-| nimble.hot     | available | $31.99    | $79.99        | 94             | 33     | 6      | name.com       |
-| live.hot       | premium   | $1,250    | $1,250        | 108            | 56     | 4      | name.com       |
-| ethereal.hot   | available | $31.99    | $79.99        | 88             | 31     | 8      | name.com       |
-| data.hot       | premium   | $1,300    | $1,300        | 70             | 56     | 4      | namecheap      |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| nets.hot          | available | $58.98    | —             | 54             | 81     | 4      | namecheap |
+| insight.hot       | premium   | $125      | —             | 76             | 69     | 8      | name.com  |
+| donuts.hot        | available | $58.98    | —             | 54             | 62     | 6      | namecheap |
+| regions.hot       | premium   | $125      | —             | 64             | 59     | 7      | name.com  |
+| RedSox.hot        | available | $58.98    | —             | 72             | 60     | 7      | namecheap |
+| Books.hot         | premium   | $14,000   | $14,000       | 52             | 49     | 5      | namecheap |
+| keepthechange.hot | available | $58.98    | —             | 46             | 59     | 15     | namecheap |
+| cars.hot          | premium   | $1,250    | —             | 66             | 47     | 4      | name.com  |
+| commonground.hot  | available | $58.98    | —             | 74             | 28     | 13     | namecheap |
+| coins.hot         | premium   | $625      | —             | 56             | 41     | 5      | name.com  |
+| bees.hot          | available | $58.98    | —             | 54             | 27     | 4      | namecheap |
+| Tools.hot         | premium   | $700      | $700          | 56             | 40     | 5      | namecheap |
+| echoes.hot        | available | $51.99    | $51.99        | 56             | 24     | 6      | namesilo  |
+| WiFi.hot          | premium   | $1,400    | $1,400        | 83             | 37     | 5      | namecheap |
+| motorsport.hot    | available | $58.98    | —             | 74             | 23     | 10     | namecheap |
+| events.hot        | premium   | $625      | —             | 68             | 37     | 6      | name.com  |
+| deeplearning.hot  | available | $58.98    | —             | 74             | 23     | 13     | namecheap |
+| stories.hot       | premium   | $1,250    | —             | 58             | 36     | 7      | name.com  |
+| makeit.hot        | available | $58.98    | —             | 82             | 22     | 7      | namecheap |
+| aliens.hot        | premium   | $116      | $116          | 56             | 35     | 6      | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,923-row public sample | 9,923 live domains                               |
+| 1,000-row public sample | 12,363 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HOT One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HOT One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
