@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .hot one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,907 domains · **Median ask:** $202.83 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-17  
 **Canonical page:** `https://unique.domains/domains/tld/hot`  
 **Best for:** founders, investors, studios
 
@@ -78,7 +78,7 @@ print(df.head())
 | etc.hot           | premium   | $3,125    | —             | 58             | 34     | 3      | name.com  |
 | deeplearning.hot  | available | $58.98    | —             | 74             | 23     | 13     | namecheap |
 | trends.hot        | premium   | $6,250    | —             | 60             | 32     | 6      | name.com  |
-| makeit.hot        | available | $58.98    | —             | 82             | 22     | 7      | namecheap |
+| makeit.hot        | available | $58.98    | —             | 82             | 21     | 7      | namecheap |
 | William.hot       | premium   | $140      | $140          | 74             | 31     | 7      | namecheap |
 | bubbles.hot       | available | $58.98    | —             | 72             | 21     | 7      | namecheap |
 | maps.hot          | premium   | $1,250    | —             | 56             | 31     | 4      | name.com  |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HOT One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HOT One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
