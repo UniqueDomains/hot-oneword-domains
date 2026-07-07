@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .hot one-word domains from 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,907 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,907 domains · **Median ask:** $202.83 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,907 domains · **Median ask:** $296.87 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/hot`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/hot`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .HOT one-word domain c
 
 ### Files
 
-- `hot.csv` — public CSV extract (1,000 rows)
-- `hot.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `hot.csv`, public CSV extract (1,000 rows)
+- `hot.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| nets.hot          | available | $58.98    | —             | 54             | 81     | 4      | namecheap |
-| insight.hot       | premium   | $125      | —             | 76             | 69     | 8      | name.com  |
-| donuts.hot        | available | $58.98    | —             | 54             | 62     | 6      | namecheap |
-| Books.hot         | premium   | $14,000   | $14,000       | 52             | 49     | 5      | namecheap |
-| RedSox.hot        | available | $58.98    | —             | 72             | 60     | 7      | namecheap |
-| Tools.hot         | premium   | $700      | $700          | 56             | 40     | 5      | namecheap |
-| keepthechange.hot | available | $58.98    | —             | 46             | 59     | 15     | namecheap |
-| events.hot        | premium   | $625      | —             | 68             | 37     | 6      | name.com  |
-| commonground.hot  | available | $58.98    | —             | 74             | 28     | 13     | namecheap |
-| stories.hot       | premium   | $1,250    | —             | 58             | 36     | 7      | name.com  |
-| echoes.hot        | available | $51.99    | $51.99        | 56             | 24     | 6      | namesilo  |
-| trends.hot        | premium   | $6,250    | —             | 60             | 32     | 6      | name.com  |
-| deeplearning.hot  | available | $58.98    | —             | 74             | 23     | 13     | namecheap |
-| etc.hot           | premium   | $3,125    | —             | 58             | 32     | 3      | name.com  |
-| makeit.hot        | available | $58.98    | —             | 82             | 21     | 7      | namecheap |
-| William.hot       | premium   | $140      | $140          | 74             | 31     | 7      | namecheap |
-| bubbles.hot       | available | $58.98    | —             | 72             | 21     | 7      | namecheap |
-| maps.hot          | premium   | $1,250    | —             | 56             | 31     | 4      | name.com  |
-| HarryPotter.hot   | available | $58.98    | —             | 72             | 20     | 12     | namecheap |
-| solutions.hot     | premium   | $625      | —             | 56             | 31     | 9      | name.com  |
+| domain   | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| -------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| aide.hot | available | $51.99    | $51.99        | high           | low    | 4      | namesilo  |
+| ago.hot  | premium   | $3,125    | $3,125        | medium         | low    | 3      | name.com  |
+| blob.hot | available | $51.99    | $51.99        | medium         | low    | 4      | namesilo  |
+| apt.hot  | premium   | $3,125    | —             | high           | low    | 3      | name.com  |
+| camo.hot | available | $51.99    | $51.99        | high           | low    | 4      | namesilo  |
+| are.hot  | premium   | $3,125    | —             | high           | low    | 3      | name.com  |
+| choc.hot | available | $51.99    | $51.99        | high           | low    | 4      | namesilo  |
+| bed.hot  | premium   | $3,125    | —             | high           | low    | 3      | name.com  |
+| cyan.hot | available | $51.99    | $51.99        | high           | low    | 4      | namesilo  |
+| bio.hot  | premium   | $3,125    | —             | high           | medium | 3      | name.com  |
+| mist.hot | available | $51.99    | $51.99        | medium         | low    | 4      | namesilo  |
+| bit.hot  | premium   | $3,125    | —             | high           | medium | 3      | name.com  |
+| neat.hot | available | $51.99    | $51.99        | medium         | low    | 4      | namesilo  |
+| box.hot  | premium   | $3,125    | —             | medium         | high   | 3      | name.com  |
+| omit.hot | available | $51.99    | $51.99        | high           | low    | 4      | namesilo  |
+| bud.hot  | premium   | $1,107    | $1,107        | high           | low    | 3      | namesilo  |
+| pity.hot | available | $31.99    | $79.99        | high           | low    | 4      | name.com  |
+| cod.hot  | premium   | $3,125    | —             | high           | low    | 3      | name.com  |
+| rang.hot | available | $51.99    | $51.99        | low            | low    | 4      | namesilo  |
+| did.hot  | premium   | $3,125    | —             | high           | low    | 3      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-These domains are single-word names on the .hot extension. The selection spans direct keywords, abstract words, and attention-grabbing terms such as tax.hot, slope.hot, supernatural.hot, and damn.hot. For founders, the key question is whether the word is memorable and clear enough to overcome a less mainstream extension. For investors, the key question is whether the ask leaves room for resale despite narrower end-buyer demand. With a median ask of 202.83, this set sits in a range where keyword quality matters more than raw price alone. Stronger picks are short, easy to say, commercially legible, and unlikely to create trademark friction.
+This list holds 12,907 one-word domain names on the .hot extension, ranging from concrete nouns like tips.hot and edamame.hot to punchy phrases like makehappen.hot and jetblack.hot. The median asking price across the set is about $297, giving a quick reference point when comparing options. Because every entry is a single word, the names read as clean, easy-to-say, and easy-to-remember — traits that matter whether you're shortlisting a brand or sizing up buyable inventory. When comparing these domains, weigh asking price against renewal cost, check for existing trademark use, and favor spellings that are hard to mistype or mishear.
 
-- Prioritize words that stay clear even on a non-mainstream extension
-- Shorter, cleaner keywords usually carry better resale potential
-- Check renewal cost before judging a low ask as a true bargain
-- Avoid words with obvious trademark or reputation risk
+- 12,907 one-word .hot domain names in this list
+- Median asking price near $297 across the set
+- Everyday words like tips, gearup, and edamame
+- Check price, renewal, and spelling before buying
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HOT One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HOT One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
