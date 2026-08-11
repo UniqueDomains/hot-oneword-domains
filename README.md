@@ -1,10 +1,10 @@
-# Available .HOT One-Word Domains (12,908)
+# Available .HOT One-Word Domains (13,861)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C908%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-13%2C861%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .hot one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,908 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **13,861 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,908 domains · **Median ask:** $274.90 · **High-demand under $2,500:** 66
+**Public extract:** 1,000 rows · **Live catalog:** 13,861 domains · **Median ask:** $251.08 · **High-demand under $2,500:** 67
 
-**Last updated:** 2026-08-06
+**Last updated:** 2026-08-11
 **Canonical page:** `https://unique.domains/domains/tld/hot`
 **Best for:** founders, investors, studios
 
@@ -68,22 +68,22 @@ print(df.head())
 | ago.hot  | premium   | $3,125    | $3,125        | medium         | low    | 3      | name.com  |
 | alky.hot | available | $51.99    | $51.99        | low            | low    | 4      | namesilo  |
 | ain.hot  | premium   | $1,107    | $1,107        | low            | low    | 3      | namesilo  |
-| blob.hot | available | $51.99    | $51.99        | medium         | low    | 4      | namesilo  |
+| ashy.hot | available | $51.99    | $51.99        | low            | low    | 4      | namesilo  |
 | apt.hot  | premium   | $3,125    | —             | high           | low    | 3      | name.com  |
-| camo.hot | available | $51.99    | $51.99        | high           | low    | 4      | namesilo  |
+| avid.hot | available | $51.99    | $51.99        | medium         | low    | 4      | namesilo  |
 | are.hot  | premium   | $3,125    | —             | high           | low    | 3      | name.com  |
-| choc.hot | available | $51.99    | $51.99        | high           | low    | 4      | namesilo  |
+| blob.hot | available | $51.99    | $51.99        | medium         | low    | 4      | namesilo  |
+| bay.hot  | premium   | $3,125    | $3,125        | low            | low    | 3      | name.com  |
+| camo.hot | available | $51.99    | $51.99        | high           | low    | 4      | namesilo  |
 | bed.hot  | premium   | $3,125    | —             | high           | low    | 3      | name.com  |
-| cyan.hot | available | $51.99    | $51.99        | high           | low    | 4      | namesilo  |
+| choc.hot | available | $51.99    | $51.99        | high           | low    | 4      | namesilo  |
 | bio.hot  | premium   | $3,125    | —             | high           | medium | 3      | name.com  |
-| mist.hot | available | $51.99    | $51.99        | medium         | low    | 4      | namesilo  |
+| cyan.hot | available | $51.99    | $51.99        | high           | low    | 4      | namesilo  |
 | bit.hot  | premium   | $3,125    | —             | high           | medium | 3      | name.com  |
-| neat.hot | available | $51.99    | $51.99        | medium         | low    | 4      | namesilo  |
+| mist.hot | available | $51.99    | $51.99        | medium         | low    | 4      | namesilo  |
 | box.hot  | premium   | $3,125    | —             | medium         | high   | 3      | name.com  |
-| omit.hot | available | $51.99    | $51.99        | high           | low    | 4      | namesilo  |
+| neat.hot | available | $51.99    | $51.99        | medium         | low    | 4      | namesilo  |
 | bud.hot  | premium   | $1,107    | $1,107        | high           | low    | 3      | namesilo  |
-| pity.hot | available | $31.99    | $79.99        | high           | low    | 4      | name.com  |
-| cod.hot  | premium   | $3,125    | —             | high           | low    | 3      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 12,908 live domains                        |
+| 1,000-row public sample | 13,861 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 66 high-demand names under $2,500          |
+| Basic exported fields   | 67 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HOT One-Word Domains*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HOT One-Word Domains*. Version 2026-08-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
