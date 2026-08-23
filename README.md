@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .hot one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 18,903 domains · **Median ask:** $205.64 · **High-demand under $2,500:** 68
 
-**Last updated:** 2026-08-22
+**Last updated:** 2026-08-23
 **Canonical page:** `https://unique.domains/domains/tld/hot`
 **Best for:** founders, investors, studios
 
@@ -64,7 +64,6 @@ print(df.head())
 
 | domain   | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | -------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| out.hot  | premium   | $3,125    | —             | high           | low    | 3      | name.com  |
 | aide.hot | available | $51.99    | $51.99        | high           | low    | 4      | namesilo  |
 | ago.hot  | premium   | $3,125    | $3,125        | medium         | low    | 3      | name.com  |
 | alky.hot | available | $51.99    | $51.99        | low            | low    | 4      | namesilo  |
@@ -84,6 +83,7 @@ print(df.head())
 | mist.hot | available | $51.99    | $51.99        | medium         | low    | 4      | namesilo  |
 | box.hot  | premium   | $3,125    | —             | medium         | high   | 3      | name.com  |
 | neat.hot | available | $51.99    | $51.99        | medium         | low    | 4      | namesilo  |
+| bud.hot  | premium   | $1,107    | $1,107        | high           | low    | 3      | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HOT One-Word Domains*. Version 2026-08-22. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HOT One-Word Domains*. Version 2026-08-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
