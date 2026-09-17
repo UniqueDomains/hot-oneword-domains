@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .hot one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 26,311 domains · **Median ask:** $170.44 · **High-demand under $2,500:** 77
 
-**Last updated:** 2026-09-16
+**Last updated:** 2026-09-17
 **Canonical page:** `https://unique.domains/domains/tld/hot`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| out.hot   | premium   | $3,125    | —             | high           | low    | 3      | name.com  |
-| come.hot  | premium   | $1,107    | $1,107        | high           | low    | 4      | namesilo  |
-| hello.hot | premium   | $1,107    | $1,107        | high           | high   | 5      | namesilo  |
-| time.hot  | premium   | $1,107    | $1,107        | high           | medium | 4      | namesilo  |
-| what.hot  | premium   | $1,107    | $1,107        | high           | low    | 4      | namesilo  |
-| aide.hot  | available | $51.99    | $51.99        | high           | low    | 4      | namesilo  |
-| ago.hot   | premium   | $3,125    | $3,125        | medium         | low    | 3      | name.com  |
-| alky.hot  | available | $51.99    | $51.99        | low            | low    | 4      | namesilo  |
-| ain.hot   | premium   | $1,107    | $1,107        | low            | low    | 3      | namesilo  |
-| ashy.hot  | available | $51.99    | $51.99        | low            | low    | 4      | namesilo  |
-| apt.hot   | premium   | $3,125    | —             | high           | low    | 3      | name.com  |
-| avid.hot  | available | $51.99    | $51.99        | medium         | low    | 4      | namesilo  |
-| are.hot   | premium   | $3,125    | —             | high           | low    | 3      | name.com  |
-| blob.hot  | available | $51.99    | $51.99        | medium         | low    | 4      | namesilo  |
-| bay.hot   | premium   | $3,125    | $3,125        | low            | low    | 3      | name.com  |
-| camo.hot  | available | $51.99    | $51.99        | high           | low    | 4      | namesilo  |
-| bed.hot   | premium   | $3,125    | —             | high           | low    | 3      | name.com  |
-| choc.hot  | available | $51.99    | $51.99        | high           | low    | 4      | namesilo  |
-| bio.hot   | premium   | $3,125    | —             | high           | medium | 3      | name.com  |
-| cyan.hot  | available | $51.99    | $51.99        | high           | low    | 4      | namesilo  |
+| domain   | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| -------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| aide.hot | available | $51.99    | $51.99        | high           | low    | 4      | namesilo  |
+| ago.hot  | premium   | $3,125    | $3,125        | medium         | low    | 3      | name.com  |
+| alky.hot | available | $51.99    | $51.99        | low            | low    | 4      | namesilo  |
+| ain.hot  | premium   | $1,107    | $1,107        | low            | low    | 3      | namesilo  |
+| ashy.hot | available | $51.99    | $51.99        | low            | low    | 4      | namesilo  |
+| apt.hot  | premium   | $3,125    | —             | high           | low    | 3      | name.com  |
+| avid.hot | available | $51.99    | $51.99        | medium         | low    | 4      | namesilo  |
+| are.hot  | premium   | $3,125    | —             | high           | low    | 3      | name.com  |
+| blob.hot | available | $51.99    | $51.99        | medium         | low    | 4      | namesilo  |
+| bay.hot  | premium   | $3,125    | $3,125        | low            | low    | 3      | name.com  |
+| camo.hot | available | $51.99    | $51.99        | high           | low    | 4      | namesilo  |
+| bed.hot  | premium   | $3,125    | —             | high           | low    | 3      | name.com  |
+| choc.hot | available | $51.99    | $51.99        | high           | low    | 4      | namesilo  |
+| bio.hot  | premium   | $3,125    | —             | high           | medium | 3      | name.com  |
+| cyan.hot | available | $51.99    | $51.99        | high           | low    | 4      | namesilo  |
+| bit.hot  | premium   | $3,125    | —             | high           | medium | 3      | name.com  |
+| mist.hot | available | $51.99    | $51.99        | medium         | low    | 4      | namesilo  |
+| box.hot  | premium   | $3,125    | —             | medium         | high   | 3      | name.com  |
+| neat.hot | available | $51.99    | $51.99        | medium         | low    | 4      | namesilo  |
+| bud.hot  | premium   | $1,107    | $1,107        | high           | low    | 3      | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HOT One-Word Domains*. Version 2026-09-16. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HOT One-Word Domains*. Version 2026-09-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
