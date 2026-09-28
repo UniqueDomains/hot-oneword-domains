@@ -1,10 +1,10 @@
-# Available .HOT One-Word Domains (24,663)
+# Available .HOT One-Word Domains (25,190)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-24%2C663%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-25%2C190%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .hot one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **24,663 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **25,190 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 24,663 domains · **Median ask:** $222.71 · **High-demand under $2,500:** 66
+**Public extract:** 1,000 rows · **Live catalog:** 25,190 domains · **Median ask:** $222.62 · **High-demand under $2,500:** 68
 
-**Last updated:** 2026-09-27
+**Last updated:** 2026-09-28
 **Canonical page:** `https://unique.domains/domains/tld/hot`
 **Best for:** founders, investors, studios
 
@@ -79,11 +79,11 @@ print(df.head())
 | bawd.hot | available | $79.99    | $79.99        | medium         | low    | 4      | name.com  |
 | ely.hot  | premium   | $1,107    | $1,107        | high           | low    | 3      | namesilo  |
 | bevy.hot | available | $51.99    | $51.99        | medium         | low    | 4      | namesilo  |
+| eps.hot  | premium   | $1,035.20 | $1,035.20     | high           | low    | 3      | spaceship |
+| bine.hot | available | $51.99    | $51.99        | medium         | low    | 4      | namesilo  |
 | err.hot  | premium   | $1,107    | $1,107        | high           | low    | 3      | namesilo  |
-| bine.hot | available | $51.99    | $51.99        | high           | low    | 4      | namesilo  |
-| fat.hot  | premium   | $3,450    | $3,450        | high           | low    | 3      | namesilo  |
 | bmdo.hot | available | $51.99    | $51.99        | medium         | low    | 4      | namesilo  |
-| inc.hot  | premium   | $3,125    | —             | high           | low    | 3      | name.com  |
+| fat.hot  | premium   | $3,450    | $3,450        | high           | low    | 3      | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 24,663 live domains                        |
+| 1,000-row public sample | 25,190 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 66 high-demand names under $2,500          |
+| Basic exported fields   | 68 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HOT One-Word Domains*. Version 2026-09-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HOT One-Word Domains*. Version 2026-09-28. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
